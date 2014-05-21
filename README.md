@@ -1,6 +1,6 @@
 
 DistroBlitz - DB
-~~~~~~~~~~~~~~~~
+----------------
 
 DistroBlitz is a pure PoS coin which generates coins through PoS blocks.
 
